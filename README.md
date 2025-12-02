@@ -6,9 +6,6 @@ It is built with plain HTML, CSS and JavaScript (no frameworks), and dynamically
 
 ---
 
-
----
-
 ## 🚀 Usage / How to run
 
 1. Clone or download the repository.
@@ -41,5 +38,4 @@ No build tools or server required — it’s a purely static site.
 ## 📸 Demo / Preview
 
 ![asianKitchen screenshot](ss.png)
-This project is free to use for educational or personal purposes. (You can adapt / add a license such as MIT if you like.)
 
